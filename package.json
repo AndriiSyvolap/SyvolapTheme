@@ -1,0 +1,32 @@
+{
+  "name": "syvolaptheme",
+  "version": "1.0.0",
+  "description": "test WP theme for Beetroot",
+  "main": "main.min.js",
+  "scripts": {
+    "test": "gulp -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriiSyvolap/SyvolapTheme.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Andrii Syvolap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriiSyvolap/SyvolapTheme/issues"
+  },
+  "homepage": "https://github.com/AndriiSyvolap/SyvolapTheme#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-watch": "^5.0.1",
+    "sass": "^1.39.0"
+  },
+  "dependencies": {}
+}
